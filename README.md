@@ -2,4 +2,4 @@
 line2
 line3
 
-DEVELOPブランチからこんにちは！
+DEVELOPブランチ!!
